@@ -1,0 +1,15 @@
+# Bytecode / caches
+__pycache__/
+*.pyc
+
+# Data
+/datasets/
+/data.csv
+
+# Local env
+.env
+.venv/
+.venv
+
+# OS
+.DS_Store

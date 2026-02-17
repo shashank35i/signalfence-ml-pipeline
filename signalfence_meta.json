@@ -1,0 +1,6 @@
+{
+  "vocab_size": 7747,
+  "lower": true,
+  "ngram": 1,
+  "threshold": 0.2
+}
