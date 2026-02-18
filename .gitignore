@@ -13,17 +13,3 @@ __pycache__/
 
 # OS
 .DS_Store
-
-# Android / Gradle
-.gradle/
-**/build/
-local.properties
-*.iml
-.idea/
-*.apk
-*.aab
-
-
-# Kotlin
-.kotlin/
-
